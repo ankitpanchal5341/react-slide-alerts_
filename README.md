@@ -1,8 +1,8 @@
-# The react-slide-alerts have beautiful alerts with a slide animation & color background overlays with many options
+# This is the official repositary of react-slide-alerts
 
 ## Description
 
-
+##### The react-slide-alerts have beautiful alerts with a slide animation & color background overlays with many options
 The react-slide-alerts is dependent on Material-UI  [@mui](https://mui.com)
 ## Live Demo
 
