@@ -1,4 +1,4 @@
-# This is the official repositary of react-slide-alerts
+# This is the official repository of react-slide-alerts
 
 ## Description
 
